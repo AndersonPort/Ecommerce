@@ -699,4 +699,8 @@ footer .copyright
     {
         margin: 15px;
     }
+    #banner
+    {
+        height: 20vh;
+    }
 }
