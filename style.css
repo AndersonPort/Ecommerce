@@ -716,4 +716,8 @@ footer .copyright
     {
         width: 28%;
     }
+    #newsletter .form
+    {
+        width: 70%;
+    }
 }
